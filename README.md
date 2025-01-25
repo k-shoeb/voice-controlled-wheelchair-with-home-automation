@@ -92,9 +92,12 @@ You can create your own wake word detection model by referring [diy-alexa](https
 To understand the implementation process refer to this [Video](https://youtu.be/re-dSV_a0tM?si=jpFHV01kjxktbOmR) by `atomic14`.
 
 
-## Diagram
+## Images
 
-
+**Circuit Diagram**
+![circuit](https://github.com/user-attachments/assets/d3aa6670-a095-40bd-a9a8-d52cce5d2b49)
+**Wheelchair**
+![Wheelchair](https://github.com/user-attachments/assets/f7020353-7f6d-47f8-a9fa-44b5b3484b56)
 
 
 ## Acknowledgements
